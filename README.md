@@ -2,6 +2,9 @@
 This Project was developed using Pycharm, Python and Django.
 Pycharm provides virtual environment.
 
+# The Weather Comparison App is live at:
+https://weather-django.onrender.com
+
 # About the Project.
 1. This project lists the temperatures and compares the temperatures of two different cities.
 2. It uses the OpenWeather API to fetch details and display them.
